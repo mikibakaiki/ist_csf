@@ -21,4 +21,24 @@ PROCEDURE FOR THE 1st LAB ASSIGNMENT
 
 8. While trying to open the drone-A.bmp file, we notice that because we can't open it, this file might be corrupted. So we're going to use hexdump and check for the magic numbers.
 8.1 using hexeditor, we can see that the file has been tampered with, and we can change it back to its original format, png, substituting the first 6 characters and changing the file extension to .png
+9.
+https://github.com/RobinDavid/LSB-Steganography
+https://github.com/Aqcurate/lsb-steganography
+
+
+
+10. hexdump snow.bmp.... last lines, found this:
+									Ich sende
+0006E440  49 68 6E 65  6E 20 66 C3   BC 6E 66 20  44 61 74 65         Ihnen f..nf Date
+0006E450  69 65 6E 3A  20 28 31 29   20 44 72 6F  68 6E 65 20         ien: (1) Drohne
+0006E460  41 20 50 6C  C3 A4 6E 65   2C 20 28 32  29 20 44 72         A Pl..ne, (2) Dr
+0006E470  6F 68 6E 65  20 42 20 50   6C C3 A4 6E  65 2C 20 28         ohne B Pl..ne, (
+0006E480  33 29 20 74  65 63 68 6E   69 73 63 68  65 20 53 70         3) technische Sp
+0006E490  65 7A 69 66  69 6B 61 74   69 6F 6E 65  6E 2C 20 28         ezifikationen, (
+0006E4A0  34 29 20 50  61 73 73 77   C3 B6 72 74  65 72 20 76         4) Passw..rter v
+0006E4B0  6F 6E 20 44  72 6F 6E 65   58 20 44 61  74 65 69 73         on DroneX Dateis
+0006E4C0  65 72 76 65  72 6E 0A                                       ervern.
+
+
+11. binwalk cathedral.png
 
