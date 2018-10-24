@@ -22,8 +22,6 @@ PROCEDURE FOR THE 1st LAB ASSIGNMENT
 8. While trying to open the drone-A.bmp file, we notice that because we can't open it, this file might be corrupted. So we're going to use hexdump and check for the magic numbers.
 8.1 using hexeditor, we can see that the file has been tampered with, and we can change it back to its original format, png, substituting the first 6 characters and changing the file extension to .png
 9.
-https://github.com/RobinDavid/LSB-Steganography
-https://github.com/Aqcurate/lsb-steganography
 https://github.com/livz/cloacked-pixel
 
 10. hexdump snow.bmp.... last lines, found this:
@@ -40,4 +38,9 @@ https://github.com/livz/cloacked-pixel
 
 
 11. binwalk cathedral.png
+
+12. Alterar o algoritmo para conseguir fazer extract
+
+13. extrair informaçoes das imagens
+
 
