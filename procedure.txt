@@ -24,8 +24,7 @@ PROCEDURE FOR THE 1st LAB ASSIGNMENT
 9.
 https://github.com/RobinDavid/LSB-Steganography
 https://github.com/Aqcurate/lsb-steganography
-
-
+https://github.com/livz/cloacked-pixel
 
 10. hexdump snow.bmp.... last lines, found this:
 									Ich sende
