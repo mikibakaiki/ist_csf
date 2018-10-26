@@ -1,6 +1,6 @@
-d99f500968d444b5e0a1c9fd1dd69274  drone-A.png
-cbe4c039f3fa2b312bb95a0964ffba4d  oktoberfest_file.png
+d99f500968d444b5e0a1c9fd1dd69274  drone_draw_1.png
+cbe4c039f3fa2b312bb95a0964ffba4d  drone_draw_2.png
+3ba4ca7f05bbf65083360e455fa8ea8a  drone_specs.txt
+3cb3f3162e4cf990168d904d3bb300b9  servers_pw.txt
 87aad914cc57c4f22576bdb44333063c  snow_strings.txt
-d770b66b4f5833b0be194362f440e494  street_file.png
-3ba4ca7f05bbf65083360e455fa8ea8a  street_file_second.txt
-3cb3f3162e4cf990168d904d3bb300b9  wursten_file.txt
+d770b66b4f5833b0be194362f440e494  street_uncovered_file.png
