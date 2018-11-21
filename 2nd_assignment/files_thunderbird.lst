@@ -1,0 +1,87 @@
+d/d 575980:	Crash Reports
+d/d 575981:	Crash Reports/events
+r/r 575983:	Crash Reports/InstallTime20181010142946
+d/d 575982:	Pending Pings
+d/d 575984:	r9ufkrkl.default
+r/r 575985:	r9ufkrkl.default/times.json
+r/r 575987:	r9ufkrkl.default/.parentlock
+d/d 575989:	r9ufkrkl.default/minidumps
+d/d 575990:	r9ufkrkl.default/crashes
+d/d 575991:	r9ufkrkl.default/crashes/events
+r/r 529840:	r9ufkrkl.default/crashes/store.json.mozlz4
+r/r 575992:	r9ufkrkl.default/compatibility.ini
+r/r 576004:	r9ufkrkl.default/blocklist.xml
+r/r 575996:	r9ufkrkl.default/cookies.sqlite
+d/d 575998:	r9ufkrkl.default/gmp
+d/d 559262:	r9ufkrkl.default/gmp/Linux_x86_64-gcc3
+r/r 575999:	r9ufkrkl.default/permissions.sqlite
+r/r 576000:	r9ufkrkl.default/pkcs11.txt
+r/r 576001:	r9ufkrkl.default/cert9.db
+r/r 576002:	r9ufkrkl.default/key4.db
+r/r 576003:	r9ufkrkl.default/directoryTree.json
+r/r 529890:	r9ufkrkl.default/prefs.js
+r/r 576005:	r9ufkrkl.default/global-messages-db.sqlite
+r/r 576011:	r9ufkrkl.default/mailViews.dat
+r/r 567342:	r9ufkrkl.default/sessionCheckpoints.json
+d/d 567312:	r9ufkrkl.default/Mail
+d/d 567313:	r9ufkrkl.default/Mail/Local Folders
+r/r 567314:	r9ufkrkl.default/Mail/Local Folders/Trash
+r/r 567315:	r9ufkrkl.default/Mail/Local Folders/Trash.msf
+r/r 567316:	r9ufkrkl.default/Mail/Local Folders/Unsent Messages
+r/r 567320:	r9ufkrkl.default/Mail/Local Folders/Unsent Messages.msf
+r/r 576042:	r9ufkrkl.default/extensions.json
+r/r 576008:	r9ufkrkl.default/addonStartup.json.lz4
+r/r 529884:	r9ufkrkl.default/addons.json
+r/r 576012:	r9ufkrkl.default/abook.mab
+r/r 576013:	r9ufkrkl.default/history.mab
+r/r 576009:	r9ufkrkl.default/places.sqlite
+r/r 576015:	r9ufkrkl.default/favicons.sqlite
+r/r 529844:	r9ufkrkl.default/session.json
+r/r 576014:	r9ufkrkl.default/blist.sqlite
+r/r 576021:	r9ufkrkl.default/search.json.mozlz4
+r/r 529859:	r9ufkrkl.default/xulstore.json
+d/d 576025:	r9ufkrkl.default/ImapMail
+d/d 576026:	r9ufkrkl.default/ImapMail/imap.gmail.com
+r/r 576041:	r9ufkrkl.default/ImapMail/imap.gmail.com/INBOX.msf
+r/r 576028:	r9ufkrkl.default/ImapMail/imap.gmail.com.msf
+d/d 567299:	r9ufkrkl.default/ImapMail/imap.gmail-1.com
+r/r 567310:	r9ufkrkl.default/ImapMail/imap.gmail-1.com/INBOX.msf
+r/r 567321:	r9ufkrkl.default/ImapMail/imap.gmail-1.com/Drafts.msf
+r/r 567322:	r9ufkrkl.default/ImapMail/imap.gmail-1.com/Templates.msf
+r/r 567323:	r9ufkrkl.default/ImapMail/imap.gmail-1.com/Sent.msf
+r/r 567325:	r9ufkrkl.default/ImapMail/imap.gmail-1.com/Archives.msf
+r/r 567311:	r9ufkrkl.default/ImapMail/imap.gmail-1.com/msgFilterRules.dat
+r/r 567326:	r9ufkrkl.default/ImapMail/imap.gmail-1.com/[Gmail].msf
+d/d 567327:	r9ufkrkl.default/ImapMail/imap.gmail-1.com/[Gmail].sbd
+r/r 529867:	r9ufkrkl.default/ImapMail/imap.gmail-1.com/[Gmail].sbd/All Mail.msf
+r/r 529863:	r9ufkrkl.default/ImapMail/imap.gmail-1.com/[Gmail].sbd/Drafts.msf
+r/r 529868:	r9ufkrkl.default/ImapMail/imap.gmail-1.com/[Gmail].sbd/Important.msf
+r/r 529861:	r9ufkrkl.default/ImapMail/imap.gmail-1.com/[Gmail].sbd/Sent Mail.msf
+r/r 567336:	r9ufkrkl.default/ImapMail/imap.gmail-1.com/[Gmail].sbd/Spam.msf
+r/r 529860:	r9ufkrkl.default/ImapMail/imap.gmail-1.com/[Gmail].sbd/Starred.msf
+r/r 567338:	r9ufkrkl.default/ImapMail/imap.gmail-1.com/[Gmail].sbd/Trash.msf
+r/r 529862:	r9ufkrkl.default/ImapMail/imap.gmail-1.com/[Gmail].sbd/Sent Mail
+r/r 529856:	r9ufkrkl.default/ImapMail/imap.gmail-1.com/INBOX
+r/r 567300:	r9ufkrkl.default/ImapMail/imap.gmail-1.com.msf
+r/r 576027:	r9ufkrkl.default/panacea.dat
+r/r 576030:	r9ufkrkl.default/webappsstore.sqlite
+d/d 576033:	r9ufkrkl.default/datareporting
+r/r 576034:	r9ufkrkl.default/datareporting/state.json
+r/r 529841:	r9ufkrkl.default/datareporting/session-state.json
+r/r 569503:	r9ufkrkl.default/kinto.sqlite
+d/d 575995:	r9ufkrkl.default/blocklists
+r/r 576007:	r9ufkrkl.default/blocklists/addons.json
+r/r 576038:	r9ufkrkl.default/blocklists/plugins.json
+r/r 576040:	r9ufkrkl.default/revocations.txt
+r/r 576039:	r9ufkrkl.default/SecurityPreloadState.txt
+r/r 576043:	r9ufkrkl.default/SiteSecurityServiceState.txt
+r/r 576029:	r9ufkrkl.default/formhistory.sqlite
+d/d 567306:	r9ufkrkl.default/saved-telemetry-pings
+r/r 567307:	r9ufkrkl.default/saved-telemetry-pings/1040cd1e-a257-429e-b50f-6801acc8012c
+r/r 567309:	r9ufkrkl.default/AlternateServices.txt
+r/r 529886:	r9ufkrkl.default/folderTree.json
+r/r 567301:	r9ufkrkl.default/logins.json
+r/r 567340:	r9ufkrkl.default/virtualFolders.dat
+r/r 529847:	r9ufkrkl.default/content-prefs.sqlite
+r/r 529888:	r9ufkrkl.default/downloads.json
+r/r 575986:	profiles.ini
