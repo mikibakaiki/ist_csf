@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed Dec  5 01:38:30 2018
+Invocation: foremost file 
+Output directory: /volumes/storage1/lab3/wire1/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: file
+Start: Wed Dec  5 01:38:30 2018
+Length: 1 MB (1205139 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.dll 	     734 KB 	          4 	 08/19/2011 05:03:47
+Finish: Wed Dec  5 01:38:30 2018
+
+1 FILES EXTRACTED
+	
+exe:= 1
+------------------------------------------------------------------
+
+Foremost finished at Wed Dec  5 01:38:30 2018
