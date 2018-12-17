@@ -26,59 +26,41 @@ def extract(times, sizes):
     #Numero de incoming cells
     features.append(sizes.count(-1))
     
-    #ORDERING
-    #for j in range(0,len(sizes)):
-    #    if sizes[j] == 1:
-    #        aux = []
-    #        counterCells = j
-    #        counterIncCells = 0
-    #        for i in range(j-1,-1,-1):
-    #            if(sizes[i] == -1):
-    #                counterIncCells += 1
-    #            if(sizes[i] == 1):
-    #                break
-    #        features.append(counterCells)
-    #        features.append(counterIncCells)
     
-    #CONCENTRATION
-
+    #CONCENTRATION OF OUTGOINGS
+    maxSize = 300
+    abc = sizes
+    if(len(sizes) > maxSize):
+        abc = abc[:maxSize]
+    elif len(sizes) < maxSize:
+        for x in range(maxSize-len(sizes),0,-1):
+            abc.append(0)
+    for i in range(10):
+        counter = 0
+        for j in range(30):
+            if(abc[i*30+j] == 1):
+                counter += 1
+        features.append(counter)
 
     ####BURSTS####
     outgoingBursts = getBurstSizes(sizes,1)
-    incomingBursts = getBurstSizes(sizes,-1)
     #Numero de Bursts
     features.append(len(outgoingBursts))
-    features.append(len(incomingBursts))
-    #Numero de Non-Bursts
-    #features.append(len(sizes)-len(outgoingBursts))
-    #features.append(len(sizes)-len(incomingBursts))
     #tamanho do maior burst
     if(len(outgoingBursts) == 0):
         features.append('X')
     else:
         features.append(max(outgoingBursts))
-    if(len(incomingBursts) == 0):
-        features.append('X')
-    else:
-        features.append(max(incomingBursts))
     #tamanho do menor burst
     if(len(outgoingBursts) == 0):
         features.append('X')
     else:
         features.append(min(outgoingBursts))
-    if(len(incomingBursts) == 0):
-        features.append('X')
-    else:
-        features.append(min(incomingBursts))
     #media de tamanho dos bursts
     if(len(outgoingBursts) == 0):
         features.append('X')
     else:
         features.append((sum(outgoingBursts)+0.0)/len(outgoingBursts))
-    if(len(incomingBursts) == 0):
-        features.append('X')
-    else:
-        features.append((sum(incomingBursts)+0.0)/len(incomingBursts))
     
     return features
 
